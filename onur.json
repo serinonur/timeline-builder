@@ -1,0 +1,48 @@
+{
+	"title": {
+		"media": {
+			"url": "https://i.ibb.co/8gfqstc/Screenshot-4.png",
+			"caption": "Onur is at the Paris, Metro 4's parking mirror.",
+			"credit": "instagram/<a href='https://www.instagram.com/onursern//'></a>"
+		},
+		"text": {
+			"headline": "Onur Serin<br/>",
+			"text": "<p>Onur Serin's ability of software is awesome. And if you find out here your pick is really reallyyyy good. Who is writing this????</p>"
+		}
+	},
+	"events": [
+		{
+			"media": {
+				"url": "https://i.ibb.co/Kh09Lq5/Screenshot-1.png",
+				"caption": "Onur's with his mother and chilling out inside of the home.",
+				"credit": "Onur's uncle took the photo"
+			},
+			"start_date": {
+				"month": "7",
+				"day": "22",
+				"year": "2000"
+			},
+			"text": {
+				"headline": "Onur was born",
+				"text": "<p>Born in Ankara on July 22nd, 2000, Onur grew up in Batikent. Her mother is assistant of the company inside of the construction industry.</p>"
+			}
+		},
+        {
+			"media": {
+				"url": "https://i.ibb.co/wK2wG2p/Screenshot-2.png",
+				"caption": "Onur's with her mother and chilling out inside of the home.",
+				"credit": "Ebru's phone (Onur's mother)"
+			},
+			"start_date": {
+				"month": "6",
+				"day": "9",
+				"year": "2022"
+			},
+			"text": {
+				"headline": "Onur's graduation from Gazi, Computer Science",
+				"text": "<p>Onur got 3.01 GPA WTFFFFFFF?</p>"
+			}
+		}
+        
+	]
+}
